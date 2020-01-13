@@ -5,7 +5,7 @@ ClinicalTrialByFHIR
 
 ## Logical Model
 
-![alt tag](https://github.com/BD2KOnFHIR/CancerTrialByFHIR/blob/master/docs/CRFModel_20200106.jpg)
+![alt tag](https://github.com/BD2KOnFHIR/CancerTrialByFHIR/blob/master/model/CRFModel_20200106.jpg)
 
 
 * [model](model)
