@@ -202,7 +202,7 @@ public class Demo extends ProjectionDemo {
     }
 
     public static void main(String argv[]) {
-        Step2_PCAProjectionDemo demo = new Step2_PCAProjectionDemo();
+        Demo demo = new Demo();
         JFrame f = new JFrame("Projection of Clinic Trial Data");
         f.setSize(new Dimension(1500, 1000));
         f.setLocationRelativeTo(null);
