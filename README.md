@@ -16,6 +16,6 @@ The CRF Model is a [UML Model](model) created using MagicDraw UML Editor.  To vi
 
 This model can be used to share information with other modeler as a UML model is implementation independent. This model can be extended with additional classes and properties to make it more useful to the target domain model.  This model can also be embedded in a user UML model as a resource.  Any UML Editor like No Magic's MagicDraw, Sparx Enterprise Architect can be used.
 
-MDD (Model Driven Development) - This model can also be used to generate development templates (in Java and C++) get started with application development.
-We recommend [Papyrus - for Eclipse ](https://www.eclipse.org/papyrus/).
+MDD (Model Driven Development) - This model can also be used to generate development templates (in Java and C++). To get started with application development,
+We recommend a tool like [Papyrus - for Eclipse ](https://www.eclipse.org/papyrus/).
  
