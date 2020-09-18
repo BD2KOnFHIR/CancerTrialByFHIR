@@ -24,5 +24,8 @@ We recommend a tool like [Papyrus - for Eclipse ](https://www.eclipse.org/papyru
 * FHIR_model.java : converting the logical mode to FHIR-based representation.
 input data format: first row: id \t feature_1 \t feature_2
                    other row: p_id \t value_of_f1 \t value_of_f2
+                   
+* import jLDADMM lib at https://github.com/datquocnguyen/jLDADMM before running the application
+
 * subgroup/Trainer.java: train cluster with DMM
 * subgroup/Demo.java: demo of subgrouping of the data clustered by DMM
