@@ -19,3 +19,10 @@ This model can be used to share information with other modeler as a UML model is
 MDD (Model Driven Development) - This model can also be used to generate development templates (in Java and C++). To get started with application development,
 We recommend a tool like [Papyrus - for Eclipse ](https://www.eclipse.org/papyrus/).
  
+### Source Code
+
+* FHIR_model.java : converting the logical mode to FHIR-based representation.
+input data format: first row: id \t feature_1 \t feature_2
+                   other row: p_id \t value_of_f1 \t value_of_f2
+* subgroup/Trainer.java: train cluster with DMM
+* subgroup/Demo.java: demo of subgrouping of the data clustered by DMM
